@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/0035-search-insert-position) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Two Pointers
 |  |
