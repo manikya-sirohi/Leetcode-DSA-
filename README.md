@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/3498-reverse-degree-of-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
