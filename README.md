@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/0169-majority-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/0077-combinations) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/manikya-sirohi/Leetcode-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
